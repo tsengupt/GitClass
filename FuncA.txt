@@ -1,1 +1,2 @@
 This is Fun A
+This is func B
